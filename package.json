@@ -1,0 +1,22 @@
+{
+  "name": "nodezombies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zombies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjcolo28/NodeZombies.git"
+  },
+  "author": "Ryan Colosanti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjcolo28/NodeZombies/issues"
+  },
+  "homepage": "https://github.com/rjcolo28/NodeZombies#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
