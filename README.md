@@ -12,11 +12,11 @@ When in the local file, just type "node zombies.js" to start the game. Here, the
 
 ![alt text](./READMEpics/gameStart.png)
 
-If the player guesses the same number the as the zombie's damage, the zombie looses health based on another randomly choosen number between 1 and 5.
+If the player guesses the same number the as the zombie's damage, the zombie looses health based on another randomly chosen number between 1 and 5.
 
 ![alt text](./READMEpics/playerHit.png)
 
-If the player guesses a different number from the zombie's damage, they loose health based on the second randomly choosen number.
+If the player guesses a different number from the zombie's damage, they loose health based on the second randomly chosen number.
 
 ![alt text](./READMEpics/zombieHit.png)
 
